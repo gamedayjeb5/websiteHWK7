@@ -1,0 +1,15 @@
+.jumbotron {
+  height: 100vh;
+}
+
+.experience {
+  margin: 6rem 0 2rem 0;
+}
+
+.card {
+  margin-top: 1.5rem;
+}
+
+input,label, button {
+  margin-top: 20px;
+}
